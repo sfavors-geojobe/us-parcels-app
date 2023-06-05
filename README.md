@@ -1,5 +1,5 @@
 # US Parcels App
-a simple web app that highlights US States on click
+A simple web app that highlights US states on click
 
 ### Setup:
 1. `npm install`
